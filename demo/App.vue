@@ -12,7 +12,7 @@
       :scrollingOffset="20"
     >
       <mdb-navbar-brand to="/" waves class="font-weight-bold"
-        >MDB Vue</mdb-navbar-brand
+        >MDB Vues</mdb-navbar-brand
       >
       <mdb-navbar-toggler>
         <mdb-navbar-nav right>
